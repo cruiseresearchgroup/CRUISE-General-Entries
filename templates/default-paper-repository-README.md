@@ -1,3 +1,6 @@
+> **If you use the resources (algorithm, code and dataset) presented in this repository, please cite our paper.**  
+*The BibTeX entry is provided at the bottom of this page. 
+
 # Your paper title
 Your paper abstract here... 
 
@@ -28,11 +31,13 @@ Brief explanation about your code (where to start or how to run).
 ## Data
 Brief explanation of your datasets. 
 
+## Possible Applications
+
 ## Additional Section
 Additional section. 
 
 ## Citation
-If you use the resources presented in this repository, please cite (using the following BibTeX entry):
+If you use the resources (code and dataset) presented in this repository, please cite (using the following BibTeX entry):
 ```
 @inproceedings{lastnameYearTitle,
   title={Your paper title},
